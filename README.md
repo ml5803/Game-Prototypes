@@ -5,3 +5,4 @@ Quick mini games made using Unity
 2) Wild West - https://sleepypenguin.itch.io/wild-west
 3) Pongbreakers - https://sleepypenguin.itch.io/pongbreaker
 4) Laser Dodge - https://sleepypenguin.itch.io/laser-dodge
+5) Dinorun - https://sleepypenguin.itch.io/dinorun
